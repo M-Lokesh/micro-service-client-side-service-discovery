@@ -1,1 +1,1 @@
-# micro-service-service-discovery
+# micro-service client-side-service-discovery
